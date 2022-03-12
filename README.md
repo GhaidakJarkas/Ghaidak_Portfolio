@@ -9,6 +9,8 @@ Deep Learning Portfolio
 
 2- Training the model on Energy efficiency Data Set to predict the heating load and the cooling laod.
 
+![](/images/1.png)
+
 
 # [Project 2: Siamese Network](https://github.com/GhaidakJarkas/Siamese_Network)
 
@@ -20,6 +22,8 @@ Deep Learning Portfolio
 
 3- Building customized Loss function.
 
+![](/images/2.png)
+
 
 # [Project 3: Predicting wine type and quality](https://github.com/GhaidakJarkas/Predicting-wine-type-and-quality)
 
@@ -27,4 +31,6 @@ Deep Learning Portfolio
 
 1- Modifying the data set to fit the problem.
 
-2- Building a multiple outputs network using tensorflow Functional API
+2- Building a multiple outputs network using tensorflow Functional API.
+
+![](/images/3.png)
