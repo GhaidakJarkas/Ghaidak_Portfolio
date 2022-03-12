@@ -19,3 +19,12 @@ Deep Learning Portfolio
 2- Modifying the data set to fit the problem.
 
 3- Building customized Loss function.
+
+
+# [Project 3: Predicting wine type and quality](https://github.com/GhaidakJarkas/Predicting-wine-type-and-quality)
+
+## Objectives:
+
+1- Modifying the data set to fit the problem.
+
+2- Building a multiple outputs network using tensorflow Functional API
